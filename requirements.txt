@@ -1,7 +1,7 @@
 numpy
 pandas
 yfinance
-matplotlib.pyplot
+matplotlib
 keras.models
 streamlit
-sklearn.preprocessing
+sklearn
