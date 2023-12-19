@@ -1,1 +1,7 @@
+numpy
+pandas
 yfinance
+matplotlib.pyplot
+keras.models
+streamlit
+sklearn.preprocessing
