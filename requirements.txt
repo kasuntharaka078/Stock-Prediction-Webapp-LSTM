@@ -4,4 +4,4 @@ yfinance
 matplotlib
 keras
 streamlit
-sklearn
+scikit-learn
