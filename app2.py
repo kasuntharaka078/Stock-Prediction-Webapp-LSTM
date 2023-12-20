@@ -9,8 +9,9 @@ from sklearn.preprocessing import MinMaxScaler
 st.title('Stock Trend Prediction')
 
 symbol = st.text_input('Enter Stock Ticker', 'BTC-USD')
+period='10y'
 ticker = yf.Ticker(symbol)
-df = ticker.history(period='10y')
+df = ticker.history(period)
 
 #Describing Data
 st.subheader('Data from 10 years')
