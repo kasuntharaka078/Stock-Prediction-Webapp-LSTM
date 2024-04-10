@@ -6,3 +6,4 @@ Matplotlib
 Keras
 Tensorflow
 MinMaxScaler
+scikit-learn
