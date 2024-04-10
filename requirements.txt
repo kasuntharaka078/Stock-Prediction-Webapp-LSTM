@@ -3,6 +3,6 @@ Pandas
 NumPy
 yfinance
 Matplotlib
-Keras
+keras==2.15.0
 Tensorflow
 scikit-learn
